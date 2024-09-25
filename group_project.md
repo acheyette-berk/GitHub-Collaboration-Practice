@@ -7,3 +7,6 @@ Research interests: Energy and environmental policy, renewable energy, energy ec
 
 Zeyu's degree program: Master of Development Engineering
 Research interests: Human Mobility & Sustainable Urban Science.
+
+Kritika's degree program: Master of Development Practice
+Research interests: Agriculture, Education, Gender-equality, Health
