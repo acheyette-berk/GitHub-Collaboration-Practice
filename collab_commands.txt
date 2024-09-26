@@ -1,0 +1,15 @@
+cd /Users/eileen/Documents/Notebooks/course/soc273L/Computational-Social-Science-Projects
+cd 'Project 1'
+git clone https://github.com/acheyette-berk/GitHub-Collaboration-Practice.git
+cd 'GitHub-Collaboration-Practice'
+git checkout -b eileen
+git checkout main
+git pull origin main
+git checkout eileen
+git merge main
+nano 'group_project.md'
+touch collab_commands.txt
+nano collab_commands.txt
+git add group_project.md collab_commands.txt
+git commit -m 'Added personal details to group_project.md and list of commands to collab_commands.txt'
+git push origin eileen
