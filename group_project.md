@@ -10,3 +10,6 @@ Research interests: Human Mobility & Sustainable Urban Science.
 
 Kritika's degree program: Master of Development Practice
 Research interests: Agriculture, Education, Gender-equality, Health
+
+Eileen's degree program: Master of City Planning<br>
+Research interests: Human mobility, complex systems, spatial science.
